@@ -25,7 +25,7 @@ export default function Footer() {
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://twitter.com/SanketRakshe10"
+          href="https://twitter.com/Shubhambendkhale"
           className="group"
           aria-label="TaxPal on Twitter"
         >
@@ -37,7 +37,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/SanketRakshe/twitterbioGPT.git"
+          href="https://github.com/shubhambendkhale7/twitterbioGPT-master"
           className="group"
           aria-label="TaxPal on GitHub"
         >
